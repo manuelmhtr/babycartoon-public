@@ -8,7 +8,7 @@ BabyCartoon is the app to turn your child’s photos into share-worthy adventure
 
 ## Privacy policy
 
-Last updated: 08/Aug/24
+Last updated: 10/May/25
 
 BabyCartoon ("we", "our", or "us") is committed to protecting and respecting your privacy. This Privacy Policy explains how we collect, use, and disclose your information when you use our mobile application, BabyCartoon (the "App").
 
